@@ -25,3 +25,5 @@ dist-ssr
 
 *.env
 var
+
+.DS_Store
